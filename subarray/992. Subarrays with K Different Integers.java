@@ -1,0 +1,6 @@
+package subarray;
+
+/*
+ * HARD
+ */
+
